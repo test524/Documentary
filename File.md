@@ -7,7 +7,7 @@
 > Aesthetic Record
 
 #### **Language support**
-> Objective-C, (some Swift) 
+> Objective-C, (partial Swift) 
 
 #### **Supported devices**
 > - iPad
