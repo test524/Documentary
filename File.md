@@ -3,13 +3,13 @@
 
 ### Project key points
 
-####Title
+#### **Title**
 > Aesthetic Record
 
-####Language support
+#### **Language support**
 > Objective-C, (some Swift) 
 
-#### Supported devices
+#### **Supported devices**
 > - iPad
-- iPhone
-- iPod
+> - iPhone
+> - iPod
