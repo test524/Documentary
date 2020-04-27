@@ -1,3 +1,15 @@
 # About.md
+![](https://test.aestheticrecord.com/images/logo.png?v=123)
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+### Project key points
+
+####Title
+> Aesthetic Record
+
+####Language support
+> Objective-C, (some Swift) 
+
+#### Supported devices
+> - iPad
+- iPhone
+- iPod
