@@ -14,7 +14,7 @@
 > - iPhone
 > - iPod
 
-#### **Supported devices**
+#### **Website URL**
 > - iPad
 > - iPhone
 > - iPod
