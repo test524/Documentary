@@ -20,4 +20,9 @@
 > https://apps.apple.com/us/app/aesthetic-record-emr/id1228049519
 
 #### **iOS support**
-> Above 11.0 
+> Above 9.0 
+
+#### **Application font**
+> Lato
+
+
