@@ -15,6 +15,4 @@
 > - iPod
 
 #### **Website URL**
-> - iPad
-> - iPhone
-> - iPod
+> [https://app.aestheticrecord.com/](https://app.aestheticrecord.com/)
