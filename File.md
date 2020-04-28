@@ -18,3 +18,6 @@
 
 #### **itunes URL**
 > https://apps.apple.com/us/app/aesthetic-record-emr/id1228049519
+
+#### **iOS support**
+> Above 11.0 
