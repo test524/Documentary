@@ -15,3 +15,6 @@
 
 #### **Website URL**
 > [https://app.aestheticrecord.com/](https://app.aestheticrecord.com/)
+
+#### **itunes URL**
+> https://apps.apple.com/us/app/aesthetic-record-emr/id1228049519
