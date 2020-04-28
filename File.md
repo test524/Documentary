@@ -3,7 +3,7 @@
 
 ### Project key points
 
-#### **Title**
+#### **Name**
 > Aesthetic Record
 
 #### **Language support**
