@@ -12,7 +12,6 @@
 #### **Supported devices**
 > - iPad
 > - iPhone
-> - iPod
 
 #### **Website URL**
 > [https://app.aestheticrecord.com/](https://app.aestheticrecord.com/)
