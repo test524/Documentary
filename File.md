@@ -13,3 +13,8 @@
 > - iPad
 > - iPhone
 > - iPod
+
+#### **Supported devices**
+> - iPad
+> - iPhone
+> - iPod
