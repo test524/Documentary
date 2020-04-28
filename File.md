@@ -1,4 +1,4 @@
-# About.md
+# About
 ![](https://test.aestheticrecord.com/images/logo.png?v=123)
 
 ### Project key points
